@@ -2,7 +2,7 @@
 
 - 🔭 I’m currently working on Spring Boot
 - 💬 Ask me about **Java, Spring Boot**
-- 📫 You can reach out to me on **yildirayabdioglu@gmail.com**
+- 📫 You can reach out to me on **yabdioglu37@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
